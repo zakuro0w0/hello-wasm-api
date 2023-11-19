@@ -1,0 +1,9 @@
+# Rust
+target/
+**/*.rs.bk
+
+# Environment
+.env
+
+# Ignore VSCode files
+*.code-workspace
