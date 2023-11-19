@@ -34,7 +34,8 @@
                 "tamasfe.even-better-toml",
                 "serayuzgur.crates",
                 "github.copilot",
-                "github.copilot-labs"
+                "github.copilot-labs",
+                "ms-azuretools.vscode-docker"
             ]
         }
     },
