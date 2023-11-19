@@ -15,3 +15,9 @@ cargo build --target wasm32-wasi --release
 ```
 
 - `target/wasm32-wasi/release/`配下に`.wasm`ファイルが出力される
+
+## wasmtimeによるwasmの実行
+
+```
+wasmtime target/wasm32-wasi/release/hello-wasm-api.wasm
+```
